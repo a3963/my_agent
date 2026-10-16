@@ -1,0 +1,32 @@
+[
+  {
+    "question": "超快激光焊接透明材料时，热积累机制是如何导致材料熔化并形成焊接区域的？",
+    "english_query": "How does the thermal accumulation mechanism cause material melting and the formation of a weld zone during ultrafast laser welding of transparent materials?",
+    "relevant_source": "Jia 等 - 2025 - Ultrafast laser welding of transparent materials from principles to applications.pdf",
+    "relevant_keywords": [
+      "thermal diffusion time",
+      "heat",
+      "melting"
+    ]
+  },
+  {
+    "question": "硬质合金与钢进行激光焊接时，为什么容易产生微裂纹等缺陷？",
+    "english_query": "Why are defects such as microcracks prone to form during laser welding of cemented carbide to steel?",
+    "relevant_source": "Norouzian 等 - 2025 - Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and mach.pdf",
+    "relevant_keywords": [
+      "thermal expansion",
+      "thermal conductivity",
+      "microcracks"
+    ]
+  },
+  {
+    "question": "为什么1910 nm激光可以用于同种透明PS的无吸收剂激光透射焊接？",
+    "english_query": "Why can a 1910 nm laser be used for absorber-free laser transmission welding of identical transparent PS?",
+    "relevant_source": "1910_nm激光透射焊接同种透明聚苯乙烯工艺的研究_孟宪凤.pdf",
+    "relevant_keywords": [
+      "1910",
+      "71%",
+      "85%"
+    ]
+  }
+]

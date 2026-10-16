@@ -1,0 +1,62 @@
+[
+  {
+    "question": "对于无定形聚碳酸酯（PC）的激光透射焊接，其界面结合主要受哪些机制控制？",
+    "english_query": "For laser transmission welding of amorphous polycarbonate (PC), what mechanisms primarily control interfacial bonding?",
+    "relevant_source": "zh_duanluo.pdf",
+    "reference_answer": "PC的玻璃化转变温度约为147 ℃，其界面结合主要与玻璃化转变相关的软化、分子链运动能力增强、界面扩散以及分子链缠结有关。"
+  },
+  {
+    "question": "在PC激光透射焊接中，为什么需要将激光功率、焊接速度和材料厚度联合考虑？",
+    "english_query": "Why is it necessary to consider laser power, welding speed, and material thickness together in PC laser transmission welding?",
+    "relevant_source": "zh_duanluo.pdf",
+    "reference_answer": "因为材料厚度会同时影响光学衰减和传热过程，而PC相关实验和有限元分析表明，激光功率、焊接速度和厚度会共同影响接头形成和焊接质量，因此需要联合考虑。"
+  },
+  {
+    "question": "超快激光焊接透明材料时，热积累机制是如何导致材料熔化并形成焊接区域的？",
+    "english_query": "How does the thermal accumulation mechanism cause material melting and the formation of a weld zone during ultrafast laser welding of transparent materials?",
+    "relevant_source": "Jia 等 - 2025 - Ultrafast laser welding of transparent materials from principles to applications.pdf",
+    "reference_answer": "超快激光通过非线性吸收在透明材料内部沉积部分能量。当连续高重复频率激光脉冲之间的时间间隔短于材料的热扩散时间时，热量会在材料内部反复积累，直到局部温度超过材料熔点。随后热扩散会形成典型的泪滴状熔融结构，从而实现透明材料的局部熔化与连接。"
+  },
+  {
+    "question": "超快激光焊接在透明材料连接中相比传统连接方法具有哪些主要优势？",
+    "english_query": "What are the main advantages of ultrafast laser welding over traditional joining methods for joining transparent materials?",
+    "relevant_source": "Jia 等 - 2025 - Ultrafast laser welding of transparent materials from principles to applications.pdf",
+    "reference_answer": "超快激光焊接可以在无需辅助中间层的情况下，对透明材料进行局部选择性熔化与连接，并具有热影响区小、焊接强度高等优势，同时能够实现同种以及异种透明材料之间的连接。"
+  },
+  {
+    "question": "硬质合金与钢进行激光焊接时，为什么容易产生微裂纹等缺陷？",
+    "english_query": "Why are defects such as microcracks prone to form during laser welding of cemented carbide to steel?",
+    "relevant_source": "Norouzian 等 - 2025 - Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and mach.pdf",
+    "reference_answer": "硬质合金与钢之间存在明显的热膨胀系数和热导率差异，这些热物性不匹配会在焊接过程中引起较大的热应力和不均匀热响应，从而促进微裂纹等缺陷形成，并降低焊接接头的完整性和力学性能。"
+  },
+  {
+    "question": "该研究为什么采用高速成像结合监督式机器学习来评估硬质合金与钢的激光焊接质量？",
+    "english_query": "Why did this study use high-speed imaging combined with supervised machine learning to assess the quality of laser welding between cemented carbide and steel?",
+    "relevant_source": "Norouzian 等 - 2025 - Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and mach.pdf",
+    "reference_answer": "高速成像能够记录焊接过程中羽流等动态特征，而这些特征与焊接稳定性、熔深和缺陷形成有关。研究通过提取高速成像中的特征，并利用监督式机器学习算法进行分类，从而实现对焊接质量的自动评估，并提高焊接过程监测和质量控制的可靠性。"
+  },
+  {
+    "question": "该研究在ABS激光透射焊接实验中采用了什么激光波长和CNT浓度？",
+    "english_query": "What laser wavelength and CNT concentration were used in the ABS laser transmission welding experiments?",
+    "relevant_source": "Rodríguez-Vidal 等 - 2014 - Laser transmission welding of ABS Effect of CNTs concentration and process parameters on material i.pdf",
+    "reference_answer": "该研究采用波长为808 nm的二极管激光系统进行ABS激光透射焊接，并在吸收层中分别加入0.01 wt%和0.05 wt%的碳纳米管（CNT）作为红外激光吸收剂。"
+  },
+  {
+    "question": "为什么CNT浓度会影响ABS激光透射焊接的工艺窗口和焊接质量？",
+    "english_query": "Why does CNT concentration affect the process window and weld quality in laser transmission welding of ABS?",
+    "relevant_source": "Rodríguez-Vidal 等 - 2014 - Laser transmission welding of ABS Effect of CNTs concentration and process parameters on material i.pdf",
+    "reference_answer": "CNT作为激光吸收添加剂会改变ABS材料的热学和光学性能，从而影响激光能量吸收、热量产生以及焊缝形成过程，因此不同CNT浓度会改变能够获得高质量焊缝的工艺窗口。"
+  },
+  {
+    "question": "为什么1910 nm激光可以用于同种透明PS的无吸收剂激光透射焊接？",
+    "english_query": "Why can a 1910 nm laser be used for absorber-free laser transmission welding of identical transparent PS?",
+    "relevant_source": "1910_nm激光透射焊接同种透明聚苯乙烯工艺的研究_孟宪凤.pdf",
+    "reference_answer": "PS在1910 nm波长下的透过率约为71%，明显低于其在800~1100 nm波段大于85%的透过率，因此在1910 nm附近具有更强的本征吸收能力，可以在不添加额外吸收剂的情况下在界面附近产生足够热量，实现透明PS之间的直接激光透射焊接。"
+  },
+  {
+    "question": "该研究主要考察了哪些工艺参数，并采用什么方法评价1910 nm激光焊接PS的焊接效果？",
+    "english_query": "What process parameters did the study primarily investigate, and what method did it use to evaluate the welding quality of PS using a 1910 nm laser?",
+    "relevant_source": "1910_nm激光透射焊接同种透明聚苯乙烯工艺的研究_孟宪凤.pdf",
+    "reference_answer": "该研究主要考察了激光功率、焊接速度、离焦量和线能量等工艺参数，并通过光学显微镜观察焊缝外观，同时利用电子拉力试验机测试焊缝强度，以综合评价焊接效果并确定较合适的焊接参数。"
+  }
+]

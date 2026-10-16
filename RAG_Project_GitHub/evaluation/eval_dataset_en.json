@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How does heat accumulation during ultrafast laser welding lead to the melting and joining of transparent materials?",
+    "relevant_source": "Jia 等 - 2025 - Ultrafast laser welding of transparent materials from principles to applications.pdf",
+    "reference_answer": "Ultrafast laser pulses deposit energy inside transparent materials through nonlinear absorption. When the interval between successive pulses is shorter than the thermal diffusion time, heat accumulates until the local temperature exceeds the melting point. Subsequent thermal diffusion forms a characteristic molten region that enables joining."
+  },
+  {
+    "question": "Why are microcracks likely to form during laser welding of hardmetal and steel?",
+    "relevant_source": "Norouzian 等 - 2025 - Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and mach.pdf",
+    "reference_answer": "Hardmetal and steel have significantly different thermal expansion coefficients and thermal conductivities. These mismatches lead to uneven thermal responses and stresses during welding, which promote microcrack formation and reduce joint integrity."
+  },
+  {
+    "question": "Why does CNT concentration affect the process window and weld quality in laser transmission welding of ABS?",
+    "relevant_source": "Rodríguez-Vidal 等 - 2014 - Laser transmission welding of ABS Effect of CNTs concentration and process parameters on material i.pdf",
+    "reference_answer": "CNTs act as laser-absorbing additives and modify the optical and thermal properties of ABS. Therefore, changing CNT concentration affects laser energy absorption, heat generation, and weld formation, which changes the process window for obtaining high-quality joints."
+  }
+]
